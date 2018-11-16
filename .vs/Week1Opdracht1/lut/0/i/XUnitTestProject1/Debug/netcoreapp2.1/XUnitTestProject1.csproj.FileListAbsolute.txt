@@ -1,0 +1,13 @@
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.deps.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.runtimeconfig.dev.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.AssemblyInfo.cs
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.csproj.CopyComplete
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\XUnitTestProject1\Debug\netcoreapp2.1\XUnitTestProject1.dll

@@ -1,0 +1,9 @@
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.deps.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.runtimeconfig.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.runtimeconfig.dev.json
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\b\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.dll
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.csproj.CoreCompileInputs.cache
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.AssemblyInfoInputs.cache
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.AssemblyInfo.cs
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.csproj.CopyComplete
+C:\Users\Noah\source\repos\Week1Opdracht1\.vs\Week1Opdracht1\lut\0\i\Week1Opdracht1\Debug\netcoreapp2.1\Week1Opdracht1.dll

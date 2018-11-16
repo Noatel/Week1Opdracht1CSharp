@@ -1,0 +1,11 @@
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\bin\Debug\netcoreapp2.1\Week1Opdracht1.deps.json
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\bin\Debug\netcoreapp2.1\Week1Opdracht1.runtimeconfig.json
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\bin\Debug\netcoreapp2.1\Week1Opdracht1.runtimeconfig.dev.json
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\bin\Debug\netcoreapp2.1\Week1Opdracht1.dll
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\bin\Debug\netcoreapp2.1\Week1Opdracht1.pdb
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.csprojAssemblyReference.cache
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.csproj.CoreCompileInputs.cache
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.AssemblyInfoInputs.cache
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.AssemblyInfo.cs
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.dll
+c:\users\noah\source\repos\Week1Opdracht1\Week1Opdracht1\obj\Debug\netcoreapp2.1\Week1Opdracht1.pdb
